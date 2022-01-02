@@ -1,8 +1,8 @@
 module.exports = {
     home: (req, res) => {
-        res.send("This is the home page")
+        res.render("home")
     },
     second: (req, res) => {
-        res.send("This is the second page")
+        res.render("second")
     },
 };
