@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/IzaCoder/deploying_practice#readme",
   "dependencies": {
-    "express": "^4.17.2",
+    "express": "^4.17.3",
     "pug": "^3.0.2"
   }
 }
